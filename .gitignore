@@ -1,0 +1,19 @@
+# Libraries 
+2 *.lvlibp 
+3 *.llb 
+4 
+ 
+5 # Shared objects (inc. Windows DLLs) 
+6 *.dll 
+7 *.so 
+8 *.so.* 
+9 *.dylib 
+10 
+ 
+11 # Executables 
+12 *.exe 
+13 
+ 
+14 # Metadata 
+15 *.aliases 
+16 *.lvlps 
